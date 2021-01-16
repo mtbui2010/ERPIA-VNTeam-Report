@@ -8,6 +8,10 @@
   - Server are always **passive**, mean that, it inactively responds a user’s request. It cannot start a server-client connection.
   
   <img src="../images/9.PNG" width="70%">
+  
+  - A typical solution: Server **keep connecting** to each user at individual socket port 
+-> number of uses loaded at same time, **huge resources** acquired, and server collapsed.   
+
 
 <img src="../images/10.PNG" width="50%">
 
