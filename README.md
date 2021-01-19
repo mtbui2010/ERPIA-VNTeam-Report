@@ -7,3 +7,5 @@
 ## 2. Server-client connection
 ### 1.1. [Purposes and issues](mds/server_issue.md)
 ### 1.2. [Solution](mds/server_solution.md)
+### 1.3. [Demo](mds/server_demo.md)
+### 1.4. [To do](mds/server_do.md)
