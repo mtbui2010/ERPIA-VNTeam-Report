@@ -5,7 +5,7 @@
 ### 1.3. [Solution](mds/form_solution.md)
 ### 1.4. [Challenge](mds/form_challenge.md)
 ## 2. Server-client connection
-### 1.1. [Purposes and issues](mds/server_issue.md)
-### 1.2. [Solution](mds/server_solution.md)
-### 1.3. [Demo](mds/server_demo.md)
-### 1.4. [To do](mds/server_do.md)
+### 2.1. [Purposes and issues](mds/server_issue.md)
+### 2.2. [Solution](mds/server_solution.md)
+### 2.3. [Demo](mds/server_demo.md)
+### 2.4. [To do](mds/server_do.md)
