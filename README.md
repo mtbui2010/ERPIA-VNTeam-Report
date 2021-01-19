@@ -8,4 +8,4 @@
 ### 2.1. [Purposes and issues](mds/server_issue.md)
 ### 2.2. [Solution](mds/server_solution.md)
 ### 2.3. [Demo](mds/server_demo.md)
-### 2.4. [To do](mds/server_do.md)
+### 2.4. [To do](mds/server_todo.md)
